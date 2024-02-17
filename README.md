@@ -22,7 +22,7 @@ This PySpark ETL process extracts and analyzes Google Chrome History data, cover
 3. **Analysis and Visualization**: Provides insights into user behavior, search patterns, and active hours.
 
 ## File Structure
-Data will be extract from your local SQLite3 DB.
+Data will be extracted from your local SQLite3 DB.
 - `output.csv`: Extracted Chrome History data.
 - `visits.csv`: Processed data on visits.
 - `keyword_search_terms.csv`: Keyword search terms data.
