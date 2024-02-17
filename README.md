@@ -47,6 +47,6 @@ This PySpark ETL process extracts and analyzes Google Chrome History data, cover
 
 ## Author
 
-[Your Name]
+Manju Bhargavi
 
 Feel free to customize the README according to your specific details, dependencies, and usage instructions.
