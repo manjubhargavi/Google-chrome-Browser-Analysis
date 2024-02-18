@@ -1,7 +1,6 @@
 # Google-chrome-Browser-Analysis
 PySpark ETL for Google Chrome History: Extracts Chrome History data, analyzes URLs, keyword searches, downloads (success/failure), interruptions, visit frequency, and active hours. Insights into user behavior, search patterns, and engagement.
 
-Certainly! Below is a basic template for a README file based on the provided PySpark ETL process for Google Chrome History:
 
 ---
 
